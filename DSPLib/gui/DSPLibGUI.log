@@ -1,0 +1,1 @@
+Running: ./lib/DSPLibCoeffGen.exe  -struct fir -bt bandpass -ft barthann -n 75 -wc1 2000.0 -wc2 4000.0  -freqz -phase -norm 10000.0 -impresponse
